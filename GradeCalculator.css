@@ -58,3 +58,15 @@ h1 {
     color: rgb(255, 255, 255);
     text-align: center;
 }
+
+@media (max-width: 600px) {
+    input {
+        display: block;
+        width: 80%;
+        margin: 10px auto;
+    }
+    
+    button {
+        margin: 5px;
+    }
+}
