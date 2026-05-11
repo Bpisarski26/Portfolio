@@ -24,6 +24,10 @@ h1 {
     text-transform: uppercase;
     margin-bottom: 40px;
     opacity: 0.9;
+    top: 20px;
+    left: 0;
+    right: 0;
+    text-align: center;
 }
 
 nav {
@@ -88,13 +92,6 @@ button:hover {
     min-width: 300px;
 }
 
-#weather-info h2 {
-    font-size: 32px;
-    font-weight: 300;
-    margin-bottom: 20px;
-    letter-spacing: 2px;
-}
-
 #weather-info p {
     font-size: 16px;
     opacity: 0.8;
@@ -106,13 +103,6 @@ button:hover {
     display: none;
 }
 
-#weather-info {
-    text-align: center;
-    padding: 40px;
-    font-size: 180px;
-    font-style: italic ;
-    accent-color: #ff0000;
-}
 
 #weather-info h2 {
     font-size: 28px;
